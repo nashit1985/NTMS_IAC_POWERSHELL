@@ -9,7 +9,7 @@ Get-command -name *date*
 Get-Date
 <"Task#3" Will run this command to find "Object Type" for Get-Date>
 Get-Help Get-Date
-<In description it says that "Get-Date" cmdlet gets "DateTime" object>
+<In description it says that "Get-Date" cmdlet gets "System.DateTime" object>
 <"Task#4" Will run this command to find information about hotfixes installed on local system>
 Get-Command -noun *Hotfix*
 <Output suggests "Get-Hotfix">
